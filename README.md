@@ -25,7 +25,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=25D366&center=true&vCenter=true&random=false&width=600&lines=Professional+SOC-Style+Dashboard;Real-Time+Packet+Analysis;Educational+%26+Defensive+Security;PyQt6+Modern+Dark+UI" alt="Typing SVG" style="max-width: 100%; height: auto;"/>
 </picture>
 
-<br/><br/>
+
 
 <!-- Animated Badges -->
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -391,3 +391,4 @@ If you find this project useful, show your support!
 </picture>
 
 </div>
+
